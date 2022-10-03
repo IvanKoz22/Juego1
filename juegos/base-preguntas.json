@@ -1,0 +1,50 @@
+[
+    {
+        "categoria": "Filosofia",
+        "pregunta": "¿Qué significa exactamente la palabra filosofia, que proviene del griego 'philosophia'",
+        "respuesta": "Amor por la sabiduria",
+        "incorrecta1": "Amor por la filosofia",
+        "incorrecta2": "Amor por hacerse preguntas",
+        "incorrecta3": "Amor por lo correcto",
+        "imagen": "http://upload.wikimedia.org/wikipedia/commons/4/42/Hortus_Deliciarum%2C_Philosophy_and_the_seven_liberal_arts_%28cropped%29.jpg",
+        "objectFit": "cover"
+    },
+    {
+        "categoria": "Filosofia",
+        "pregunta": "¿Qué filósofo dijo: La libertad está en ser dueños de la propia vida?",
+        "respuesta": "Platón",
+        "incorrecta1": "Anaxágoras",
+        "incorrecta2": "Sócrates",
+        "incorrecta3": "Ivan",
+        "imagen": "https://estaticos.muyhistoria.es/media/cache/1140x_thumb/uploads/images/test/5f4e40db5bafe89dfe2a7f8c/filo3.jpg",
+        "objectFit": "cover"
+    },
+    {
+        "categoria": "Filosofia",
+        "pregunta": "¿Qué famoso filósofo griego le dijo a sus discípulos al ser preguntado por la hora a la que se debía poner uno a comer que “depende, si eres rico puedes comer cuando quieras y, si eres pobre, siempre que puedas”?",
+        "respuesta": "Diógenes de Sinope",
+        "incorrecta1": "Heráclito de Éfeso",
+        "incorrecta2": "Epicuro de Samos",
+        "incorrecta3": "Homer Simpson",
+        "imagen": "https://estaticos.muyhistoria.es/media/cache/1140x_thumb/uploads/images/test/5f4e40db5bafe89dfe2a7f8c/filo4.jpg",
+        "objectFit": "cover"
+    },
+    {
+        "categoria": "Filosofia",
+        "pregunta": "¿Recuerdas el apelativo por el que era conocido Aristóteles?",
+        "respuesta": "El Estagirita",
+        "incorrecta1": "Apostol de los indios",
+        "incorrecta2": "El Oscuro de Éfeso",
+        "incorrecta3": "Mi Bebito fiufiu",
+        "imagen": "https://estaticos.muyhistoria.es/media/cache/1140x_thumb/uploads/images/test/5f4e40db5bafe89dfe2a7f8c/filo5.jpg"
+    },
+    {
+        "categoria": "Filosofia",
+        "pregunta": "¿Qué filósofo afirmaba que todo conocimiento deriva, en última instancia, de la experiencia sensible?",
+        "respuesta": "David Hume",
+        "incorrecta1": "John Locke",
+        "incorrecta2": "Thomas Hobbes",
+        "incorrecta3": "Abril Sosa",
+        "imagen": "https://estaticos.muyhistoria.es/media/cache/1140x_thumb/uploads/images/test/5f4e40db5bafe89dfe2a7f8c/filo6.jpg "
+    }
+]
